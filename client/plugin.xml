@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<plugin>
+<name>My GH/s banner</name>
+<maker>mariogrip</maker>
+<description>This makes a banner with hashrate that you can put on a forum or your webpage</description>
+<settings>plugins/mgb/settings.php</settings>
+</plugin>
